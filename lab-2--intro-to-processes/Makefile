@@ -1,0 +1,2 @@
+process: process.c
+		gcc process.c -o process
